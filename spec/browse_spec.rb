@@ -1,5 +1,4 @@
 
 describe "browsing" do
-	it "should fire a flare"
-  
+	it "should_browse_to_site"
 end
